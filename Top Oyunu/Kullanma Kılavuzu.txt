@@ -1,0 +1,23 @@
+Kullanma Kılavuzu
+Klavye:
+W ve UP : Yukarı
+S ve DOWN : Geri
+A ve LEFT :Sol
+D ve RİGHT : Sağ
+K : Top hızlanır
+M :Top yavaşlar
++ tuşu : Top büyür
+- tuşu :Top Küçültür
+Z : Top Renk değiştirir
+X : Border Renk değiştirir
+C : Arka Plan renk değişirir
+Enter: Yatayda Animasyon Başlatır. Animasyonlar 6 sn sürer sonra yerine döner
+Back_Space : dikeyde animasyon Başlatır
+Shift:Çapraz animasyon başlatır.
+Space : Boya bırakır
+Del : Tüm Boyaları siler
+Q : ÜStundeki boyayı siler
+Mouse:
+Arka plana tıklandığında arka plan renk değişir
+Top a tıklnadığında top ile arka plan değişir
+
